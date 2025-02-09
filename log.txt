@@ -1,0 +1,5 @@
+2025-02-09 15:19:06,663 - Error sending email: (334, b'UGFzc3dvcmQ6')
+2025-02-09 15:24:40,255 - Error sending email: (334, b'UGFzc3dvcmQ6')
+2025-02-09 15:33:26,940 - Error sending email: (334, b'UGFzc3dvcmQ6')
+2025-02-09 15:35:51,301 - Email sent successfully.
+2025-02-09 15:36:23,968 - Email sent successfully.
